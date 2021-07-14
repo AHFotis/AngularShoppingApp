@@ -1,27 +1,43 @@
-# AngularShoppingApp
+# Angular Shopping App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Product of following Angular documentation tutorial for first time Angular programmers.
 
-## Code scaffolding
+## Table of Contents
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* [Reference](#reference)
+* [Details](#details)
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Usage](#usage)
+  
+## Reference
 
-## Build
+Screenshot of application
+  ![Home Page](./Home.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Check Out
+  ![Check Out](./CheckOut.png)
+  
 
-## Running unit tests
+## Details
+ Users can browse the store, view details, be notified of price drops, share items, add items to cart, view shipping costs, and input information to order product.
+ 
+  
+## Technologies
+Built with Angular including Angular Routing, Angular Forms, Angular HttpClient, and Angular Component.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Installation
 
-## Running end-to-end tests
+To install all necessary materials for this project, run the following command:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
+npm install
+```
 
-## Further help
+## Usage
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This is the product of a tutorial provided by Angular. While all code was hand-typed, the prompting and layout came from the Angular Documentation. Complete the tutorial yourself at https://angular.io/start.
